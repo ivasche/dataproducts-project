@@ -1,7 +1,7 @@
 dataproducts-project
 ====================
 
-This repo contains server.R and ui.R code files for an applicaton that computes a person's Body Mass Index (BMI) and compares an obtained result with country average for selected country and sex.
+This repo contains server.R and ui.R code files for an applicaton that computes a person's Body Mass Index (BMI) and compares an obtained result with country average for selected country and sex. Application is stored here: https://ivasche.shinyapps.io/project/
 
 The data (apart from user-specified inputs) comes from Wiki page http://en.wikipedia.org/wiki/Body_mass_index (read with XML package).
 
